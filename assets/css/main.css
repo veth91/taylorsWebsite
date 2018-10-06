@@ -12,7 +12,7 @@
 #hideOnMobile {
 	pointer-events: none
 }
-@media (max-width: 1300px) {
+@media (max-width: 900px) {
 	#hideOnMobile {
 		display: none;
 	}
